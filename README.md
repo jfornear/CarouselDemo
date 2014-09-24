@@ -1,7 +1,7 @@
 CarouselDemo
 ============
 
-This is an iOS prototype of the Dropbox app's basic signed out and signed in state. Username and password is hardcoded to "jessefornear@gmail.com" and "password".
+This is an iOS prototype of the Dropbox app's basic signed out and signed in state. Email and password is hardcoded to "jessefornear@gmail.com" and "password".
 
 Time spent: 10 hours spent in total
 
